@@ -19,7 +19,8 @@ Standard Bank aims to improve the current process in which potential borrowers a
 
 - Deployment.
 
-![[CRISP-DM](https://www.onlinemanipal.com/wp-content/uploads/2022/09/Data-Science-Life-cycle-1024x1022.png)
+![CRISP-DM](https://www.onlinemanipal.com/wp-content/uploads/2022/09/Data-Science-Life-cycle-1024x1022.png)
+
 
 ## Task 1 - SQL for Data Scientists
 
